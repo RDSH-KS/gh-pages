@@ -36,5 +36,4 @@ UseHugoToc: true
     # appendFilePath: true # to append file path to Edit link
 ---
 
-
 The 1st post here
